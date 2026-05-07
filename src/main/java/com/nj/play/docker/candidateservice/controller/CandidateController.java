@@ -1,8 +1,8 @@
-package com.vinsguru.candidateservice.controller;
+package com.nj.play.docker.candidateservice.controller;
 
-import com.vinsguru.candidateservice.dto.CandidateDetailsDto;
-import com.vinsguru.candidateservice.dto.CandidateDto;
-import com.vinsguru.candidateservice.service.CandidateService;
+import com.nj.play.docker.candidateservice.dto.CandidateDetailsDto;
+import com.nj.play.docker.candidateservice.dto.CandidateDto;
+import com.nj.play.docker.candidateservice.service.CandidateService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 import reactor.core.publisher.Flux;

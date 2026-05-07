@@ -1,6 +1,6 @@
-package com.vinsguru.candidateservice;
+package com.nj.play.docker.candidateservice;
 
-import com.vinsguru.candidateservice.dto.CandidateDto;
+import com.nj.play.docker.candidateservice.dto.CandidateDto;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.autoconfigure.web.reactive.AutoConfigureWebTestClient;

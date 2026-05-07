@@ -1,6 +1,6 @@
-package com.vinsguru.candidateservice.client;
+package com.nj.play.docker.candidateservice.client;
 
-import com.vinsguru.candidateservice.dto.JobDto;
+import com.nj.play.docker.candidateservice.dto.JobDto;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
 import org.springframework.web.reactive.function.client.WebClient;

@@ -1,4 +1,4 @@
-package com.vinsguru.candidateservice.dto;
+package com.nj.play.docker.candidateservice.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

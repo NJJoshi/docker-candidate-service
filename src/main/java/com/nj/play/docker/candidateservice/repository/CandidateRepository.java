@@ -1,6 +1,6 @@
-package com.vinsguru.candidateservice.repository;
+package com.nj.play.docker.candidateservice.repository;
 
-import com.vinsguru.candidateservice.entity.Candidate;
+import com.nj.play.docker.candidateservice.entity.Candidate;
 import org.springframework.data.repository.reactive.ReactiveCrudRepository;
 import org.springframework.stereotype.Repository;
 

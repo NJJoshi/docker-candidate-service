@@ -1,4 +1,4 @@
-package com.vinsguru.candidateservice.util;
+package com.nj.play.docker.candidateservice.util;
 
 import java.net.InetAddress;
 import java.net.UnknownHostException;

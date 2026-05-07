@@ -1,8 +1,9 @@
-package com.vinsguru.candidateservice.util;
+package com.nj.play.docker.candidateservice.util;
 
-import com.vinsguru.candidateservice.dto.CandidateDetailsDto;
-import com.vinsguru.candidateservice.dto.CandidateDto;
-import com.vinsguru.candidateservice.entity.Candidate;
+
+import com.nj.play.docker.candidateservice.dto.CandidateDetailsDto;
+import com.nj.play.docker.candidateservice.dto.CandidateDto;
+import com.nj.play.docker.candidateservice.entity.Candidate;
 import org.springframework.beans.BeanUtils;
 
 public class EntityDtoUtil {

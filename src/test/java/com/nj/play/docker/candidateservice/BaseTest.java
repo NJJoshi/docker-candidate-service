@@ -1,6 +1,7 @@
-package com.vinsguru.candidateservice;
+package com.nj.play.docker.candidateservice;
 
-import com.vinsguru.candidateservice.dto.Service;
+
+import com.nj.play.docker.candidateservice.dto.Service;
 import org.junit.ClassRule;
 import org.springframework.test.context.DynamicPropertyRegistry;
 import org.springframework.test.context.DynamicPropertySource;

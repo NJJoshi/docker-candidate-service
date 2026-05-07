@@ -1,10 +1,11 @@
-package com.vinsguru.candidateservice.service;
+package com.nj.play.docker.candidateservice.service;
 
-import com.vinsguru.candidateservice.client.JobClient;
-import com.vinsguru.candidateservice.dto.CandidateDetailsDto;
-import com.vinsguru.candidateservice.dto.CandidateDto;
-import com.vinsguru.candidateservice.repository.CandidateRepository;
-import com.vinsguru.candidateservice.util.EntityDtoUtil;
+
+import com.nj.play.docker.candidateservice.client.JobClient;
+import com.nj.play.docker.candidateservice.dto.CandidateDetailsDto;
+import com.nj.play.docker.candidateservice.dto.CandidateDto;
+import com.nj.play.docker.candidateservice.repository.CandidateRepository;
+import com.nj.play.docker.candidateservice.util.EntityDtoUtil;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import reactor.core.publisher.Flux;
